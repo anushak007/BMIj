@@ -2,6 +2,7 @@ import sys
 if len(sys.argv)==3:
   w = int(sys.argv[1])
   h = float(sys.argv[2])
+  print("user input is provided")
 
 else:
   w = 40
